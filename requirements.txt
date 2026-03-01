@@ -1,4 +1,4 @@
-stremlit
+streamlit==1.32.0
 google-generativeai
-python-dotenv
-pdfplumber
+PyPDF2
+pythom-dotenv
